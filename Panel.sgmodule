@@ -18,7 +18,7 @@ TrafficStatistics = script-name=TrafficStatistics,update-interval=1
 [Script]
 
 # 网络信息面板
-net-info-panel=script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/Panels/NetInfo/net-info-panel.js,type=generic
+net-info-panel=script-pathhttps://raw.githubusercontent.com/Nebulosa-Cat/Surge/main/Panel/Network-Info/cn/networkCheck_CN.js,type=generic
 
 # 刷新DNS
 flushDNS = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/asset/flushDNS.js,argument=title=DNS FLush&icon=arrow.clockwise&color=#3d3d5b&server=false
